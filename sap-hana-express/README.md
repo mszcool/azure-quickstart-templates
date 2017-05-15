@@ -7,6 +7,8 @@
 
 This template deploys a single virtual machine instance and installs SAP HANA Express and all required dependencies in this Virtual Machine. The Virtual Machine sizes are defined based on the requirements for SAP HANA Express. Before being able to deploy the template, you need to download the SAP HANA Express Setup packages from the SAP Homepage (scripts tested for HANA Express without XA-Advanced services).
 
+***Important Note:* The pull-request into the official Microsoft Azure Quick Start Templates GitHub repository is not completed, yet, but is in-progress. This version in the working GitHub-fork is fully functional and can be used for dev/test purposes, already!**
+
 -----------
 
 Follow these steps to use this quick-start
